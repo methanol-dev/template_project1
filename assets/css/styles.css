@@ -918,6 +918,13 @@ footer.entry-meta .meta-in {
 }
 
 #underfooter {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+            /* Height of the footer*/
+    height: 30px;
+    background: grey;
     background: #191919;
     padding: 15px 0;
     color: #777;
